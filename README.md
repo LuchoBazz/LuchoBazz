@@ -1,4 +1,21 @@
-### Hi there 👋
+### Hi! I am Luis Miguel Báez: 👋
+
+#### Education
+
+- Bachelor of Engineering - BE - Systems and Computer Engineer student at UNAL (2016-2022)
+
+#### Languages and Technologies
+
+* **Programming Languages**
+    * C++ (Advanced)
+    * Python (Intermediate)
+    * Java (Intermediate)
+    * Javascript - Node.js (Intermediate)
+
+* **Technologies**
+    * Git (Intermediate)
+    * Unix (Intermediate)
+    * SQL (Intermediate)
 
 <!--
 **LuisMBaezCo/LuisMBaezCo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
