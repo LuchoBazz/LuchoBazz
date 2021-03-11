@@ -1,8 +1,11 @@
 ### Hi! I am Luis Miguel Báez: 👋
 
-#### Education
+I am currently a software engineering student at UNAL. I am also passionate about computer problem solving and competitive programming that I have been active in for the last 2 years. 
 
-- Bachelor of Engineering - BE - Systems and Computer Engineer student at UNAL (2016-2022)
+#### 📬 Get in touch
+- LinkedIn: [linkedin.com/in/luismbaezco](https://www.linkedin.com/in/luismbaezco/)
+- Twitter: [@LuisMBaezCo](https://twitter.com/LuisMBaezCo)
+- Email: [es.luismiguelbaez@gmail.com](es.luismiguelbaez@gmail.com)
 
 #### Languages and Technologies
 
