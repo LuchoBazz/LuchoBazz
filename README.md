@@ -12,9 +12,9 @@ I am currently a Systems and Computer Engineer student at UNAL. I am also passio
 * **Programming Languages**
     * C++ (Advanced)
     * Python (Intermediate)
+    * Rust (Intermediate)
     * Java (Intermediate)
     * Javascript - Node.js (Basic-Intermediate)
-    * Rust (Learning)
 
 * **Technologies**
     * Git (Intermediate)
