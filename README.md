@@ -10,7 +10,7 @@ I am currently a Systems and Computer Engineer student at UNAL. I am also passio
 #### Languages and Technologies
 
 * **Programming Languages**
-    * C++ (Advanced)
+    * C++ (Intermediate)
     * Python (Intermediate)
     * Rust (Intermediate)
     * Java (Intermediate)
