@@ -10,10 +10,10 @@ I am currently a Systems and Computer Engineer student at UNAL. I am also passio
 #### Languages and Technologies
 
 * **Programming Languages**
-    * Javascript/TypeScript - Node.js (Intermediate)
     * C++ (Intermediate)
-    * Python (Intermediate)
+    * Javascript/TypeScript - Node.js (Intermediate)
     * Rust (Intermediate)
+    * Python (Intermediate)
     * Java (Intermediate)
 
 * **Technologies**
