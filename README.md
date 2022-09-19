@@ -21,7 +21,7 @@ I am currently a Systems and Computer Engineer student at UNAL. I am also passio
     * Unix (Intermediate)
     * SQL (Intermediate)
     * Docker (Intermediate)
-    * Kubernetes/OpenShift (Basic-Intermediate)
+    * Kubernetes/OpenShift (Basic)
 
 #### GitHub Stats
 
