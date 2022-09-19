@@ -10,16 +10,18 @@ I am currently a Systems and Computer Engineer student at UNAL. I am also passio
 #### Languages and Technologies
 
 * **Programming Languages**
+    * Javascript/TypeScript - Node.js (Intermediate)
     * C++ (Intermediate)
     * Python (Intermediate)
     * Rust (Intermediate)
     * Java (Intermediate)
-    * Javascript - Node.js (Basic-Intermediate)
 
 * **Technologies**
     * Git (Intermediate)
     * Unix (Intermediate)
     * SQL (Intermediate)
+    * Docker (Intermediate)
+    * Kubernetes/OpenShift (Basic-Intermediate)
 
 #### GitHub Stats
 
