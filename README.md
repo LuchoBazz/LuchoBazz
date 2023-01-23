@@ -3,8 +3,8 @@
 I am currently a Systems and Computer Engineer student at UNAL. I am also passionate about computer problem solving and competitive programming that I have been active in for the last 2.5 years.
 
 #### 📬 Get in touch
-- LinkedIn: [linkedin.com/in/luismbaezco](https://www.linkedin.com/in/luismbaezco/)
-- Twitter: [@LuisMBaezCo](https://twitter.com/LuisMBaezCo)
+- LinkedIn: [linkedin.com/in/luismiguelbaez](https://www.linkedin.com/in/luismiguelbaez)
+- Twitter: [@LuchoBazz](https://twitter.com/LuchoBazz)
 - Email: [es.luismiguelbaez@gmail.com](es.luismiguelbaez@gmail.com)
 
 #### Languages and Technologies
@@ -25,12 +25,12 @@ I am currently a Systems and Computer Engineer student at UNAL. I am also passio
 
 #### GitHub Stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisMBaezCo&theme=tokyonight&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMBaezCo&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=LuchoBazz&theme=tokyonight&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuchoBazz&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
-**LuisMBaezCo/LuisMBaezCo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**LuchoBazz/LuchoBazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
