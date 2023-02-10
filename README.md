@@ -1,6 +1,6 @@
 ### Hi! I am Luis Miguel Báez: 👋
 
-I am currently a Systems and Computer Engineer student at UNAL. I am also passionate about computer problem solving and competitive programming that I have been active in for the last 2.5 years.
+I am a Systems and Computer Engineer at UNAL. I am also passionate about computer problem solving and competitive programming that I have been active in for the last 2.5 years.
 
 #### 📬 Get in touch
 - LinkedIn: [linkedin.com/in/luismiguelbaez](https://www.linkedin.com/in/luismiguelbaez)
