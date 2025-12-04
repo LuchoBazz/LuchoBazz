@@ -12,9 +12,13 @@ I have experience working as a **Software Engineer** at high-growth startups and
     * I work at a **high-growth startup** with a small team but high impact.
     * I handle **high-scalability systems** that support millions of users, using very agile workflows.
 
-* **Software Engineer at IBM:** *(2021 - 2022)*
-    * I worked on moving old APIs and Microservices to **JavaScript/Node.js**.
+* **Back-End Software Engineer at IBM:** *(Jan 2022 - Sep 2022 · 9 mos)*
+    * Backend Software Engineer + Integration.
+    * I worked on moving old APIs and Microservices to **Node.js**.
     * **Database Optimization:** I improved a database replication process, reducing the time from **12 hours to only 1 hour**.
+
+* **Software Engineer Intern at IBM:** *(Jul 2021 - Dec 2021 · 6 mos)*
+    * Software Engineer Intern + Integration.
 
 * **Research:** I published a paper about my open-source tool for automated testing.
 
