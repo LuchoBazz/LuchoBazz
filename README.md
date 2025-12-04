@@ -1,45 +1,63 @@
-### Hi! I am Luis Miguel Báez: 👋
+### Hi there! I am Luis Miguel Báez 👋
 
-I am a Systems and Computer Engineer at UNAL. I am also passionate about computer problem solving and competitive programming that I have been active in for the last 2.5 years.
+I am a **Systems and Computer Engineer** from the National University of Colombia (UNAL).
 
-#### 📬 Get in touch
-- LinkedIn: [linkedin.com/in/luismiguelbaez](https://www.linkedin.com/in/luismiguelbaez)
-- Twitter: [@LuchoBazz](https://twitter.com/LuchoBazz)
-- Email: [es.luismiguelbaez@gmail.com](es.luismiguelbaez@gmail.com)
+I have experience working as a **Software Engineer** at high-growth startups and large tech companies. I specialize in backend development, high-scalability systems, and optimization.
 
-#### Languages and Technologies
+---
 
-* **Programming Languages**
-    * C++ (Intermediate)
-    * Javascript/TypeScript - Node.js (Intermediate)
-    * Rust (Intermediate)
-    * Python (Intermediate)
-    * Java (Intermediate)
+### 🚀 Career Highlights
 
-* **Technologies**
-    * Git (Intermediate)
-    * Unix (Intermediate)
-    * SQL (Intermediate)
-    * Docker (Intermediate)
-    * Kubernetes/OpenShift (Basic)
+* **Back-End Software Engineer at Instaleap:** *(Oct 2022 - Present)*
+    * I work at a **high-growth startup** with a small team but high impact.
+    * I handle **high-scalability systems** that support millions of users, using very agile workflows.
 
-#### GitHub Stats
+* **Software Engineer at IBM:** *(2021 - 2022)*
+    * I worked on moving old APIs and Microservices to **JavaScript/Node.js**.
+    * **Database Optimization:** I improved a database replication process, reducing the time from **12 hours to only 1 hour**.
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=LuchoBazz&theme=tokyonight&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuchoBazz&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+* **Research:** I published a paper about my open-source tool for automated testing.
 
+---
 
-<!--
-**LuchoBazz/LuchoBazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📚 Latest Publication (Dec 2025)
 
-Here are some ideas to get you started:
+**"Quick Test CLI: A Cross‑Platform for Automated Testing in Competitive Programming"**
+I wrote a paper about a tool I built to help programmers test their algorithms.
+<br>
+👉 **Read it here:** [DOI: 10.5281/zenodo.17803503](https://doi.org/10.5281/zenodo.17803503)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Languages and Technologies
+
+Here are the tools and languages I use most often:
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | JavaScript/TypeScript (Node.js), C++, Python, Rust, Java |
+| **DevOps** | Docker, Git, Unix |
+| **Databases** | SQL |
+| **Cloud/Infra** | Kubernetes, OpenShift (Basic) |
+
+---
+
+### 💻 Open Source Projects
+
+* **[Quick Test CLI](https://github.com/LuisMBaezCo/quicktest):** A tool to run stress tests for competitive programming. It helps users check if their code is correct and fast.
+* **[C++ Algorithm Snippets](https://github.com/LuisMBaezCo/cpp-algorithm-snippets):** A collection of advanced algorithms and data structures in C++. I also wrote a Python script to make them easy to use in VSCode and Vim.
+
+---
+
+### 🏆 Awards
+
+* **2nd Place - Ironhacks Competition 2018:** A hackathon organized by Purdue University. I built a web app using JavaScript and Google Maps API to visualize 100,000 data points.
+
+---
+
+### 📫 Connect with me
+
+* **Website:** [luchobazz.github.io/about-me](https://luchobazz.github.io/about-me/)
+* **LinkedIn:** [linkedin.com/in/luismiguelbaez](https://www.linkedin.com/in/luismiguelbaez)
+* **Email:** [en.luismiguelbaez@gmail.com](mailto:en.luismiguelbaez@gmail.com)
+* **Twitter:** [@LuchoBazz](https://twitter.com/LuchoBazz)
