@@ -4,6 +4,8 @@ I am a **Systems and Computer Engineer** from the National University of Colombi
 
 I have experience working as a **Software Engineer** at high-growth startups and large tech companies. I specialize in backend development, high-scalability systems, and optimization.
 
+[Luis Miguel Báez's Website](https://luchobazz.github.io/about-me/)
+
 ---
 
 ### 🚀 Career Highlights
