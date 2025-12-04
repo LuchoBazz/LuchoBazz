@@ -56,7 +56,7 @@ Here are the tools and languages I use most often:
 
 ### 🏆 Awards
 
-* **2nd Place - Ironhacks Competition 2018:** A hackathon organized by Purdue University. I built a web app using JavaScript and Google Maps API to visualize 100,000 data points.
+* **2nd Place - Ironhacks Competition 2018:** A hackathon organized by Purdue University. I built a web app using Node.js and Google Maps API to visualize 100,000 data points.
 
 ---
 
