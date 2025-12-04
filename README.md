@@ -1,10 +1,8 @@
-### Hi there! I am Luis Miguel Báez 👋
+### Hi there! I am <a href="https://luchobazz.github.io/about-me/" target="_blank">Luis Miguel Báez</a> 👋
 
 I am a **Systems and Computer Engineer** from the National University of Colombia (UNAL).
 
 I have experience working as a **Software Engineer** at high-growth startups and large tech companies. I specialize in backend development, high-scalability systems, and optimization.
-
-[Luis Miguel Báez's Website](https://luchobazz.github.io/about-me/)
 
 ---
 
