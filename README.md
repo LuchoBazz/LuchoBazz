@@ -35,11 +35,12 @@ Here are the tools and languages I use most often:
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | JavaScript/TypeScript (Node.js), C++, Python, Rust, Java |
-| **DevOps** | Docker, Git, Unix |
-| **Databases** | SQL |
-| **Cloud/Infra** | Kubernetes, OpenShift (Basic) |
-
+| **Languages** | Python, JavaScript/TypeScript (Node.js), C/C++, Rust, Java, Go |
+| **AI / ML / GenAI** | LLM prompt engineering, LangChain/LangGraph |
+| **DB / Storage** | PostgreSQL, MongoDB, Redis (cache / vector hybrid) |
+| **Cloud / Infra & Orchestration** | Kubernetes, Docker, Terraform, AWS / GCP, OpenShift (Basic) |
+| **DevOps / Observability** | CI/CD (GitHub Actions, GitLab CI), Docker, Git, Unix, Grafana, New Relic |
+ **Edge / IoT / Hardware & Accelerators** | CUDA, WebAssembly Rust, Arduino |   
 ---
 
 ### 💻 Open Source Projects
